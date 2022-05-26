@@ -15,6 +15,7 @@ public class pro2 {
               if(x[i][i1].equals("*")){ temp[q][0]=i; temp[q][1]=i1;q++;}
              // if(x[i][i1].equals("*")&&q==1){ temp[q][0]=i; temp[q][1]=i1;}
                 ///////////*****************
+                //**************
             }
         }
 
